@@ -1,0 +1,2 @@
+// Arithmatic ops +, -, *, /, %
+// Conditional ops <, >, <=, >=, ==, !=, ===, !==
