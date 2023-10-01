@@ -37,4 +37,4 @@ stk.push(1);
 stk.push(2);
 console.log(stk.top());
 stk.pop();
-stk.print(); // Corrected line
+stk.print(); 
