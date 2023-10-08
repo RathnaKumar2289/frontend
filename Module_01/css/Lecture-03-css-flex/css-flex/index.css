@@ -1,0 +1,40 @@
+body{
+  margin: 0px;
+}
+
+#root{
+    width: 100vw;
+    height: 50px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content: start;
+    align-items: center;
+    gap: 10px 30px;
+
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    background-color: #cabae7;
+    border-radius: 12px;
+}
+
+
+#one{
+ width: 40px;
+ height: 40px;
+ margin-left: 20px;
+}
+
+#two{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+#three{
+  margin-right: 20px;
+}
